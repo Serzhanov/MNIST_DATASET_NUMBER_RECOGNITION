@@ -49,9 +49,9 @@ class Paint(Frame):
             self.resultat_output.forget()
     def save(self):
         self.canv.update()
-        self.canv.postscript(file="Images\\test.xps", colormode="color")
-        im2 = Image.open("Images\\test.xps")
-        im2.save("Images\\test.png", 'png')
+        self.canv.postscript(file="test.xps", colormode="color")
+        im2 = Image.open("test.xps")
+        im2.save("test.png", 'png')
     def check(self):
         if self.button_Apply['state'] == DISABLED:
             self.button_Apply['state'] = ACTIVE
