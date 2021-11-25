@@ -53,9 +53,9 @@ class Paint(Frame):
             self.resultat_output.forget()
     def save_image(self):
         self.canv.update()
-        self.canv.postscript(file="Images\\test.xps", colormode="color")
-        im2 = Image.open("Images\\test.xps")
-        im2.save("Images\\test.png", 'png')
+        self.canv.postscript(file="test.xps", colormode="color")
+        im2 = Image.open("test.xps")
+        im2.save("test.png", 'png')
     def check(self):
         if self.button_Apply['state'] == DISABLED:
             self.button_Apply['state'] = ACTIVE
@@ -67,7 +67,7 @@ class Paint(Frame):
             self.Checking_btn_apply = not self.Checking_btn_apply
             self.button_Apply['state']=DISABLED
     def calculating(self):
-        im=classifier.get_image("Images\\test.png")
+        im=classifier.get_image("test.png")
         res=network.modeling(im)
         print((network.val_loss*100,network.val_acc*100))
         self.model_loss_metrics_values.config(text=f'Loss value of model with test data is %d percentages and Metrics value for the model with test data is %d percentages\n\n' %(network.val_loss*100,network.val_acc*100))
