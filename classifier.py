@@ -2,7 +2,7 @@ from PIL import Image
 import numpy as np
 def deleteting_zeros(l):
     for i in range(28):
-        #i always getting weird picture after transformation it to bits with 0 in every first line and column
+        #problem with first line and first column their pixels arent correct.So thats why we are make them equal to 0
         l[0][i] = 0
         l[i][0] = 0
         for j in range(28):
