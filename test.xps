@@ -1,8 +1,8 @@
 %!PS-Adobe-3.0 EPSF-3.0
 %%Creator: Tk Canvas Widget
-%%Title: Window .!frame.!paint.!canvas
-%%CreationDate: Thu Sep 16 17:25:49 2021
-%%BoundingBox: 192 319 420 473
+%%Title: Window .!frame.!paint.!canvas6
+%%CreationDate: Fri Nov 26 20:24:54 2021
+%%BoundingBox: 126 254 486 539
 %%Pages: 1
 %%DocumentData: Clean7Bit
 %%Orientation: Portrait
@@ -78,248 +78,1601 @@ baselineSampler 0 196 put
 save
 306.0 396.0 translate
 0.7493 0.7493 scale
--152 -102 translate
-0 204 moveto 304 204 lineto 304 0 lineto 0 0 lineto closepath clip newpath
+-239 -189 translate
+0 379 moveto 479 379 lineto 479 0 lineto 0 0 lineto closepath clip newpath
 gsave
-0 204 moveto 1000 0 rlineto 0 -1000 rlineto -1000 0 rlineto closepath
+0 379 moveto 1000 0 rlineto 0 -1000 rlineto -1000 0 rlineto closepath
+0.000 0.000 0.000 setrgbcolor AdjustColor
+fill
+0 379 moveto 1000 0 rlineto 0 -1000 rlineto -1000 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+0.000 0.000 0.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+295 317 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
 1.000 1.000 1.000 setrgbcolor AdjustColor
 fill
-0 204 moveto 1000 0 rlineto 0 -1000 rlineto -1000 0 rlineto closepath
+295 317 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
 0 setlinejoin 2 setlinecap
 1 setlinewidth
 [] 0 setdash
-0.000 0.000 0.000 setrgbcolor AdjustColor
+1.000 1.000 1.000 setrgbcolor AdjustColor
 stroke
 grestore
 gsave
-131 134 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
-0.000 0.000 0.000 setrgbcolor AdjustColor
+291 317 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
 fill
-131 134 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
+291 317 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
 0 setlinejoin 2 setlinecap
 1 setlinewidth
 [] 0 setdash
-0.000 0.000 0.000 setrgbcolor AdjustColor
+1.000 1.000 1.000 setrgbcolor AdjustColor
 stroke
 grestore
 gsave
-131 130 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
-0.000 0.000 0.000 setrgbcolor AdjustColor
+288 317 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
 fill
-131 130 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
+288 317 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
 0 setlinejoin 2 setlinecap
 1 setlinewidth
 [] 0 setdash
-0.000 0.000 0.000 setrgbcolor AdjustColor
+1.000 1.000 1.000 setrgbcolor AdjustColor
 stroke
 grestore
 gsave
-131 123 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
-0.000 0.000 0.000 setrgbcolor AdjustColor
+284 317 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
 fill
-131 123 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
+284 317 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
 0 setlinejoin 2 setlinecap
 1 setlinewidth
 [] 0 setdash
-0.000 0.000 0.000 setrgbcolor AdjustColor
+1.000 1.000 1.000 setrgbcolor AdjustColor
 stroke
 grestore
 gsave
-131 112 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
-0.000 0.000 0.000 setrgbcolor AdjustColor
+279 317 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
 fill
-131 112 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
+279 317 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
 0 setlinejoin 2 setlinecap
 1 setlinewidth
 [] 0 setdash
-0.000 0.000 0.000 setrgbcolor AdjustColor
+1.000 1.000 1.000 setrgbcolor AdjustColor
 stroke
 grestore
 gsave
-131 102 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
-0.000 0.000 0.000 setrgbcolor AdjustColor
+272 317 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
 fill
-131 102 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
+272 317 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
 0 setlinejoin 2 setlinecap
 1 setlinewidth
 [] 0 setdash
-0.000 0.000 0.000 setrgbcolor AdjustColor
+1.000 1.000 1.000 setrgbcolor AdjustColor
 stroke
 grestore
 gsave
-131 95 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
-0.000 0.000 0.000 setrgbcolor AdjustColor
+269 317 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
 fill
-131 95 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
+269 317 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
 0 setlinejoin 2 setlinecap
 1 setlinewidth
 [] 0 setdash
-0.000 0.000 0.000 setrgbcolor AdjustColor
+1.000 1.000 1.000 setrgbcolor AdjustColor
 stroke
 grestore
 gsave
-131 88 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
-0.000 0.000 0.000 setrgbcolor AdjustColor
+262 317 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
 fill
-131 88 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
+262 317 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
 0 setlinejoin 2 setlinecap
 1 setlinewidth
 [] 0 setdash
-0.000 0.000 0.000 setrgbcolor AdjustColor
+1.000 1.000 1.000 setrgbcolor AdjustColor
 stroke
 grestore
 gsave
-131 83 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
-0.000 0.000 0.000 setrgbcolor AdjustColor
+255 317 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
 fill
-131 83 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
+255 317 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
 0 setlinejoin 2 setlinecap
 1 setlinewidth
 [] 0 setdash
-0.000 0.000 0.000 setrgbcolor AdjustColor
+1.000 1.000 1.000 setrgbcolor AdjustColor
 stroke
 grestore
 gsave
-132 80 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
-0.000 0.000 0.000 setrgbcolor AdjustColor
+250 317 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
 fill
-132 80 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
+250 317 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
 0 setlinejoin 2 setlinecap
 1 setlinewidth
 [] 0 setdash
-0.000 0.000 0.000 setrgbcolor AdjustColor
+1.000 1.000 1.000 setrgbcolor AdjustColor
 stroke
 grestore
 gsave
-132 75 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
-0.000 0.000 0.000 setrgbcolor AdjustColor
+243 317 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
 fill
-132 75 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
+243 317 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
 0 setlinejoin 2 setlinecap
 1 setlinewidth
 [] 0 setdash
-0.000 0.000 0.000 setrgbcolor AdjustColor
+1.000 1.000 1.000 setrgbcolor AdjustColor
 stroke
 grestore
 gsave
-132 71 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
-0.000 0.000 0.000 setrgbcolor AdjustColor
+235 314 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
 fill
-132 71 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
+235 314 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
 0 setlinejoin 2 setlinecap
 1 setlinewidth
 [] 0 setdash
-0.000 0.000 0.000 setrgbcolor AdjustColor
+1.000 1.000 1.000 setrgbcolor AdjustColor
 stroke
 grestore
 gsave
-132 67 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
-0.000 0.000 0.000 setrgbcolor AdjustColor
+232 314 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
 fill
-132 67 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
+232 314 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
 0 setlinejoin 2 setlinecap
 1 setlinewidth
 [] 0 setdash
-0.000 0.000 0.000 setrgbcolor AdjustColor
+1.000 1.000 1.000 setrgbcolor AdjustColor
 stroke
 grestore
 gsave
-132 64 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
-0.000 0.000 0.000 setrgbcolor AdjustColor
+229 314 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
 fill
-132 64 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
+229 314 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
 0 setlinejoin 2 setlinecap
 1 setlinewidth
 [] 0 setdash
-0.000 0.000 0.000 setrgbcolor AdjustColor
+1.000 1.000 1.000 setrgbcolor AdjustColor
 stroke
 grestore
 gsave
-132 61 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
-0.000 0.000 0.000 setrgbcolor AdjustColor
+226 314 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
 fill
-132 61 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
+226 314 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
 0 setlinejoin 2 setlinecap
 1 setlinewidth
 [] 0 setdash
-0.000 0.000 0.000 setrgbcolor AdjustColor
+1.000 1.000 1.000 setrgbcolor AdjustColor
 stroke
 grestore
 gsave
-132 58 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
-0.000 0.000 0.000 setrgbcolor AdjustColor
+222 314 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
 fill
-132 58 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
+222 314 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
 0 setlinejoin 2 setlinecap
 1 setlinewidth
 [] 0 setdash
-0.000 0.000 0.000 setrgbcolor AdjustColor
+1.000 1.000 1.000 setrgbcolor AdjustColor
 stroke
 grestore
 gsave
-132 57 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
-0.000 0.000 0.000 setrgbcolor AdjustColor
+220 314 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
 fill
-132 57 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
+220 314 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
 0 setlinejoin 2 setlinecap
 1 setlinewidth
 [] 0 setdash
-0.000 0.000 0.000 setrgbcolor AdjustColor
+1.000 1.000 1.000 setrgbcolor AdjustColor
 stroke
 grestore
 gsave
-132 56 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
-0.000 0.000 0.000 setrgbcolor AdjustColor
+218 313 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
 fill
-132 56 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
+218 313 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
 0 setlinejoin 2 setlinecap
 1 setlinewidth
 [] 0 setdash
-0.000 0.000 0.000 setrgbcolor AdjustColor
+1.000 1.000 1.000 setrgbcolor AdjustColor
 stroke
 grestore
 gsave
-132 54 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
-0.000 0.000 0.000 setrgbcolor AdjustColor
+215 313 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
 fill
-132 54 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
+215 313 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
 0 setlinejoin 2 setlinecap
 1 setlinewidth
 [] 0 setdash
-0.000 0.000 0.000 setrgbcolor AdjustColor
+1.000 1.000 1.000 setrgbcolor AdjustColor
 stroke
 grestore
 gsave
-132 53 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
-0.000 0.000 0.000 setrgbcolor AdjustColor
+213 313 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
 fill
-132 53 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
+213 313 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
 0 setlinejoin 2 setlinecap
 1 setlinewidth
 [] 0 setdash
-0.000 0.000 0.000 setrgbcolor AdjustColor
+1.000 1.000 1.000 setrgbcolor AdjustColor
 stroke
 grestore
 gsave
-132 52 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
-0.000 0.000 0.000 setrgbcolor AdjustColor
+211 312 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
 fill
-132 52 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
+211 312 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
 0 setlinejoin 2 setlinecap
 1 setlinewidth
 [] 0 setdash
-0.000 0.000 0.000 setrgbcolor AdjustColor
+1.000 1.000 1.000 setrgbcolor AdjustColor
 stroke
 grestore
 gsave
-132 51 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
-0.000 0.000 0.000 setrgbcolor AdjustColor
+209 311 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
 fill
-132 51 moveto 6 0 rlineto 0 -6 rlineto -6 0 rlineto closepath
+209 311 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
 0 setlinejoin 2 setlinecap
 1 setlinewidth
 [] 0 setdash
-0.000 0.000 0.000 setrgbcolor AdjustColor
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+206 308 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+206 308 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+205 307 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+205 307 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+205 306 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+205 306 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+202 303 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+202 303 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+201 301 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+201 301 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+199 297 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+199 297 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+198 292 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+198 292 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+195 286 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+195 286 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+195 281 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+195 281 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+194 276 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+194 276 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+194 271 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+194 271 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+194 266 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+194 266 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+194 263 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+194 263 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+194 258 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+194 258 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+194 256 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+194 256 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+194 252 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+194 252 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+194 250 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+194 250 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+194 248 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+194 248 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+194 246 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+194 246 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+194 245 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+194 245 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+194 243 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+194 243 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+194 241 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+194 241 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+194 240 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+194 240 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+193 236 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+193 236 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+193 235 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+193 235 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+192 234 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+192 234 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+192 233 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+192 233 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+191 232 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+191 232 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+190 231 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+190 231 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+190 230 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+190 230 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+190 228 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+190 228 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+190 227 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+190 227 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+190 226 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+190 226 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+190 224 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+190 224 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+190 221 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+190 221 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+190 219 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+190 219 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+190 214 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+190 214 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+189 212 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+189 212 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+189 208 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+189 208 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+189 207 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+189 207 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+189 204 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+189 204 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+189 203 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+189 203 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+189 202 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+189 202 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+189 200 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+189 200 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+190 199 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+190 199 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+192 201 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+192 201 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+197 203 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+197 203 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+203 205 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+203 205 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+208 207 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+208 207 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+215 208 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+215 208 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+219 208 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+219 208 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+224 211 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+224 211 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+228 212 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+228 212 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+230 212 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+230 212 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+234 212 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+234 212 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+235 212 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+235 212 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+237 212 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+237 212 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+241 212 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+241 212 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+243 212 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+243 212 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+246 212 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+246 212 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+249 212 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+249 212 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+252 212 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+252 212 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+255 211 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+255 211 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+258 208 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+258 208 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+261 206 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+261 206 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+262 205 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+262 205 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+264 202 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+264 202 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+265 199 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+265 199 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+265 196 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+265 196 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+265 193 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+265 193 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+265 190 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+265 190 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+265 188 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+265 188 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+265 187 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+265 187 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+265 183 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+265 183 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+265 181 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+265 181 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+265 178 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+265 178 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+265 173 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+265 173 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+265 172 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+265 172 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+263 168 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+263 168 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+262 165 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+262 165 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+260 158 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+260 158 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+258 152 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+258 152 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+255 146 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+255 146 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+254 144 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+254 144 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+254 143 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+254 143 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+252 137 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+252 137 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+251 136 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+251 136 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+250 134 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+250 134 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+249 130 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+249 130 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+247 126 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+247 126 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+246 125 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+246 125 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+243 123 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+243 123 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+242 121 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+242 121 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+240 120 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+240 120 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+239 116 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+239 116 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+238 115 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+238 115 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+236 114 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+236 114 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+232 113 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+232 113 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+226 110 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+226 110 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+223 110 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+223 110 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+220 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+220 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+217 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+217 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+215 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+215 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+211 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+211 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+209 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+209 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+208 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+208 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+203 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+203 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+200 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+200 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+198 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+198 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+192 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+192 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+190 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+190 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+188 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+188 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+186 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+186 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+181 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+181 109 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+176 110 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+176 110 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+172 113 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+172 113 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+167 114 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+167 114 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+163 116 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+163 116 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+162 117 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+162 117 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+160 118 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+160 118 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+156 120 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+156 120 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
+stroke
+grestore
+gsave
+155 121 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+1.000 1.000 1.000 setrgbcolor AdjustColor
+fill
+155 121 moveto 12 0 rlineto 0 -12 rlineto -12 0 rlineto closepath
+0 setlinejoin 2 setlinecap
+1 setlinewidth
+[] 0 setdash
+1.000 1.000 1.000 setrgbcolor AdjustColor
 stroke
 grestore
 restore showpage

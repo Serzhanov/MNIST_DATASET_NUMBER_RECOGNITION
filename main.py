@@ -10,7 +10,7 @@ class Paint(Frame):
         Frame.__init__(self, parent)
         self.Checking_btn_apply=False
         self.parent = parent
-        self.color = "black"
+        self.color = "white"
         self.brush_size = 6
         self.setUI()
         self.button_Reset = Button(
@@ -30,8 +30,19 @@ class Paint(Frame):
             command=lambda: [self.save_image(),self.calculating(), self.b_clicked()],
             font=25
         )
+        self.button_Analysis = Button(
+            text="Analyse!",
+            width=35,
+            height=1,
+            bg="white",
+            fg="black",
+            command=lambda: [network.analysis()],
+            font=25
+        )
         self.button_Reset.pack(side=TOP)
         self.button_Apply.pack(side=TOP)
+        self.button_Analysis.pack(side=TOP)
+        self.button_Analysis['state']=DISABLED
         self.model_loss_metrics_values = Label(
             root, textvariable="", relief=RAISED)
         self.resultat_output = Label(
@@ -45,7 +56,7 @@ class Paint(Frame):
         self.rowconfigure(0, weight=1)
         self.canv.grid(padx=5, pady=5, sticky=E + W + S + N)
         self.canv.bind("<B1-Motion>", self.draw)
-        self.canv.create_rectangle((0,0,1000,1000),fill='white')
+        self.canv.create_rectangle((0,0,1000,1000),fill='black')
     def clear(self):
         self.canv.destroy()
         self.setUI()
@@ -66,20 +77,22 @@ class Paint(Frame):
         else:
             self.Checking_btn_apply = not self.Checking_btn_apply
             self.button_Apply['state']=DISABLED
+            self.button_Analysis['state'] = ACTIVE
     def calculating(self):
         im=classifier.get_image("test.png")
-        res=network.modeling(im)
+        set_res=network.modeling(im)
+        res=set_res[0]
+        probability=set_res[1]
         print((network.val_loss*100,network.val_acc*100))
         self.model_loss_metrics_values.config(text=f'Loss value of model with test data is %d percentages and Metrics value for the model with test data is %d percentages\n\n' %(network.val_loss*100,network.val_acc*100))
         self.model_loss_metrics_values.pack()
-        self.resultat_output.config(text=f'The result of image evaluation is %d\n'% res)
+        self.resultat_output.config(text=f'The result of image evaluation is %d with probability %f percentages\n'% ( res,probability*100))
         self.resultat_output.pack()
 
-WIDTH,HEIGHT=500,600
 root = Tk()
 fr=Frame(root)
 fr.pack()
-root.geometry("500x600")
+root.geometry("700x600")
 app=Paint(fr)
 app.pack(fill='both',expand=1)
 root.mainloop()
