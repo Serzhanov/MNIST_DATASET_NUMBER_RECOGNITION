@@ -83,7 +83,6 @@ class Paint(Frame):
         set_res=network.modeling(im)
         res=set_res[0]
         probability=set_res[1]
-        print((network.val_loss*100,network.val_acc*100))
         self.model_loss_metrics_values.config(text=f'Loss value of model with test data is %d percentages and Metrics value for the model with test data is %d percentages\n\n' %(network.val_loss*100,network.val_acc*100))
         self.model_loss_metrics_values.pack()
         self.resultat_output.config(text=f'The result of image evaluation is %d with probability %f percentages\n'% ( res,probability*100))

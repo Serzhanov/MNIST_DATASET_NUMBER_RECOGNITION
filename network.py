@@ -11,10 +11,10 @@ check=False
 val_acc=0
 val_loss=0
 res=0
+(x_train, y_train), (x_test, y_test) = mnist.load_data()
 hist=History()
 def apprentisage():
-    global val_acc,val_loss,hist
-    (x_train, y_train), (x_test, y_test) = mnist.load_data()
+    global val_acc,val_loss,hist,x_train,x_test
     x_train = x_train / 255.0
     x_test = x_test / 255.0
     x_train = x_train.reshape(x_train.shape[0], -1)
@@ -27,10 +27,11 @@ def apprentisage():
         Dense(128, activation='relu'),
         Dense(10, activation='softmax')
     ])
+    callback = tf.keras.callbacks.EarlyStopping(monitor='loss', patience=3)
     model.compile(optimizer='adam',  # optimizer
                   loss='categorical_crossentropy',
                   metrics=['accuracy'])
-    hist=model.fit(x_train, y_train_cat, batch_size=32, epochs=7,validation_data=(x_train,y_train_cat))
+    hist=model.fit(x_train, y_train_cat, batch_size=32, epochs=50,validation_data=(x_train,y_train_cat),callbacks=[callback])
     plt.plot(hist.history['loss'])
     val_loss, val_acc = model.evaluate(x_test, y_test_cat)  # evaluate the out of sample data with model
     return model
@@ -51,7 +52,7 @@ def checking_existing_of_model():
         check=True
 
 def analysis():
-    global model,hist
+    global model,hist,x_test,y_test
     #Plot loss and val_loss
 
     plt.plot(hist.history['loss'],label="loss")
@@ -62,7 +63,7 @@ def analysis():
     plt.ylabel("Validation  in %")
     plt.title("Graphic of fit")
 
-    (x_train, y_train), (x_test, y_test) = mnist.load_data()
+
     y_test = keras.utils.to_categorical(y_test, 10)#categorization for our matrix of confusin
     x_test = x_test.reshape(x_test.shape[0], -1)#reshape to matrice with 784 elemetns because in the begining Mnist gives us 28x28
     y_predicted=model.predict(x_test)
@@ -75,7 +76,7 @@ def analysis():
     ax = sns.heatmap(matrix, annot=True, fmt='d', ax=ax, cmap="Blues")
     ax.set_xlabel('Predicted Label')
     ax.set_ylabel('True Label')
-    ax.set_title('Confusion Matrix');
+    ax.set_title('Confusion Matrix')
     plt.title("Confusion Matrix")
 
     #Errors
@@ -108,4 +109,17 @@ def analysis():
         ax[i].set_title("Predicted label :{}\nTrue label: {}".format(y_p, y_t), fontsize=12)
 
     plt.show()
+
+def visualize_input(img):
+    fig = plt.figure(figsize=(12, 12))
+    ax = fig.add_subplot(111)
+    ax.imshow(img, cmap='gray')
+    width, height = (28,28)
+    thresh = img.max()/2.5
+    for x in range(width):
+        for y in range(height):
+            ax.annotate(str(round(img[x][y],2)), xy=(y,x),
+                        horizontalalignment='center',
+                        verticalalignment='center',
+                        color='white' if img[x][y]<thresh else 'black')
 

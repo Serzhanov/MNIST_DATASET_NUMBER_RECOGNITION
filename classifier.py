@@ -1,6 +1,6 @@
 from PIL import Image
 import numpy as np
-
+import network
 def recreating_arr_from_int_to_float(l):
     list_to_one_arr=[]
     for i in range(28):
@@ -17,6 +17,7 @@ def get_image(path):
     img = img.resize((28, 28))
     img = img.convert('L')
     img = np.array(img)
+    network.visualize_input(img)
     img = recreating_arr_from_int_to_float(img)
     return img
 
